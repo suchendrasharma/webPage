@@ -1,0 +1,167 @@
+.navbar-brand{
+    font-weight: bolder; 
+    font-size: x-large; 
+    color: #2D8EE2;
+}
+
+.navbar-nav{
+    padding-left: 500px; 
+    font-size: x-large;
+}
+.brg img{
+    width: 100%;
+}
+
+.ordering h1{
+    text-align: center; 
+    color: #2d8ee2; 
+    font-family: Mark Pro; 
+    margin: 100px;
+}
+
+.ordering ul{
+    list-style-type: none; 
+    font-family: Helvetica Neue;
+}
+
+.work{
+    margin-top: 100px;
+}
+
+.work h1{
+    text-align: center; 
+    color: #2D8EE2; 
+    font-size: xx-large; 
+    font-family: Mark pro; 
+    font-weight: bold;
+}
+
+.work h3{
+    text-align: center;
+}
+
+.work ol{
+    float: left; 
+    padding-top: 50px; 
+    padding-left: 100px; 
+    font-family: Helvetica Neue;
+}
+
+.work img{
+    width: 500px; 
+    margin-left: 250px;
+}
+
+.service{
+    background-color: #2d8ee2;
+}
+
+.service h1{
+    text-align: center; 
+    color: white; 
+    padding-top: 50px;
+}
+
+.service h2{
+    text-align: center; color: white;
+}
+
+.service ul{
+    list-style-type: none; 
+    font-weight: bold;
+    font-family: Helvetica Neue; 
+    margin-left: 195px; 
+    color: white; 
+    padding-bottom: 50px;
+}
+
+.platform{
+    font-family: Helvetica Neue;
+}
+
+.platform h1{
+    text-align: center; 
+    color: #2D8EE2;
+    font-weight: bold; 
+    padding-top: 50px
+}
+
+.platform .list{
+    float: left; 
+    text-align: center; 
+    padding-top: 100px; 
+    padding-left: 70px;
+}
+
+.brand{
+    background-image:url(); 
+    padding-top: 250px;
+}
+
+.brand h1{
+    text-align:center; 
+    margin: 100px;
+}
+
+.form img{
+    width: 500px; 
+    float: left; 
+    margin-left: 50px;
+}
+
+.form .contact_us{
+    margin-left: 800px; 
+    margin-bottom: 20px;
+}
+
+.form .card-body{
+    width: 500px; 
+    height: 500px; 
+    padding-top: 80px; 
+    border-style: solid; 
+    border-color: #2d8ee2; 
+    border-radius: 50px;
+}
+
+.card-body h1{
+    text-align: center;
+     color:#2d8ee2 
+}
+
+.card-body button{
+    width: 150px; 
+    height: 50px; 
+    border-radius: 12.5px;
+}
+
+.footer{
+    background-color: #36444B; 
+    height: 500px;
+}
+
+.footer .footer-left{
+    padding-top: 200px;
+}
+
+.footer .footer-left p{
+    color: white;
+    float: left; 
+    padding-left: 200px;
+}
+
+.footer .footer-left p a{
+    font-size:xx-large; 
+    font-weight: bold;
+}
+
+.footer .footer-left ul{
+    list-style-type: none; 
+    color: white; 
+    float: left;
+    padding-left: 500px;
+}
+
+.socials ul{
+    list-style-type: none; 
+    color: white;
+}

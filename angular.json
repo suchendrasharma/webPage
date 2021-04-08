@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "webPage"
+  "defaultProject": "webPage",
+  "cli": {
+    "analytics": "21abb558-0ad7-4200-ab26-58fed82ab8e1"
+  }
 }
